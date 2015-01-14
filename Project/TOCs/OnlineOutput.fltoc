@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
   conditions="">
@@ -39,7 +39,7 @@
       Link="/Content/C_Conditions Notes Tables/NotesExamplesBlockquotes.htm" />
     <TocEntry
       Title="Tables"
-      Link="/Content/C_Conditions Notes Tables/Tables.htm"
+      Link="/Content/A_Introduction Topics/Tables.htm"
       StartPageLayout="false"
       StartSection="false"
       StartChapter="false"></TocEntry>
